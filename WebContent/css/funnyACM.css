@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+
+
+.paging{
+	text-align:right;
+}
+
+.problem_describe{
+	width:70%;
+	text-align:left;
+	float:left;
+}
+
+.cot_name{
+	float:left;
+}
+
+.cot_status{
+	float:right;
+}
+
+.cot_item{
+	width:95%;
+}
+
+.submit_record{
+	width:28%;
+	float:right;
+}
+
+.brand-primary {
+  background-color: #428bca;
+}
+
+.brand-success {
+  background-color: #5cb85c;
+}
+
+.brand-info {
+  background-color: #5bc0de;
+}
+
+.brand-warning {
+  background-color: #f0ad4e;
+}
+
+
+.brand-danger {
+  background-color: #d9534f;
+}
